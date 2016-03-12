@@ -2,6 +2,7 @@
 	QassimAjax
 	Anyone can create an AJAX form! And AJAX events.
 	Version 1.0.0
+	Plugin URL: http://wp-time.com/qassimajax-jquery-ajax-plugin/
 	Written By Qassim Hassan
 	Twitter: https://twitter.com/QQQHZ
     GitHub: https://github.com/QassimHassan/
